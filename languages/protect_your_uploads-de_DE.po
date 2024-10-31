@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-05-23 15:03+0200\n"
+"PO-Revision-Date: 2020-05-23 15:04+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: admin/class-pyu-admin.php:109 admin/class-pyu-admin.php:110
+msgid "Protect Your Uploads"
+msgstr "Protect Your Uploads"
+
+#: admin/class-pyu-admin.php:119 admin/class-pyu-admin.php:120
+msgid "Files Overview"
+msgstr "Dateiübersicht"
+
+#: admin/class-pyu-admin.php:128 admin/class-pyu-admin.php:129
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/class-pyu-cpt-user.php:20 admin/class-pyu-cpt-user.php:22
+#: admin/class-pyu-cpt-user.php:23
+msgid "Protect Your Uploads Users"
+msgstr "Protect Your Uploads Benutzer"
+
+#: admin/class-pyu-cpt-user.php:24
+msgid "Add New"
+msgstr "Neu"
+
+#: admin/class-pyu-cpt-user.php:25
+msgid "Add New User"
+msgstr "Neuer Benutzer hinzufügen"
+
+#: admin/class-pyu-cpt-user.php:26
+msgid "New User"
+msgstr "Neuer Benutzer"
+
+#: admin/class-pyu-cpt-user.php:27
+msgid "Edit User"
+msgstr "Benutzer bearbeiten"
+
+#: admin/class-pyu-cpt-user.php:28
+msgid "View User"
+msgstr "Benutzer anschauen"
+
+#: admin/class-pyu-cpt-user.php:29
+msgid "Add Users"
+msgstr "Benutzer hinzufügen"
+
+#: admin/class-pyu-cpt-user.php:30
+msgid "Search Users"
+msgstr "Benutzer suchen"
+
+#: admin/class-pyu-cpt-user.php:31
+msgid "Users List Navigation"
+msgstr "Benutzer Navigation"
+
+#: admin/class-pyu-cpt-user.php:32
+msgid "Users List"
+msgstr "Benutzer Liste"
+
+#: admin/class-pyu-cpt-user.php:56
+msgid "Manage Users"
+msgstr "Benutzer verwalten"
+
+#: admin/class-pyu-cpt-user.php:63 admin/class-pyu-cpt-user.php:131
+#: admin/partials/login/login.php:34 admin/partials/login/login.php:35
+msgid "Username"
+msgstr "Benutzer"
+
+#: admin/class-pyu-cpt-user.php:64
+msgid "Date"
+msgstr "Datum"
+
+#: admin/class-pyu-cpt-user.php:135 admin/partials/login/login.php:39
+#: admin/partials/login/login.php:40
+msgid "Password"
+msgstr "Passwort"
+
+#: admin/class-pyu-cpt-user.php:137
+msgid "Show Password"
+msgstr "Passwort anzeigen"
+
+#: admin/class-pyu-settings-controller.php:33
+msgid "Block crawling bots from indexing your protected uploads"
+msgstr "Crawling Bots vom Indexen deiner Uploads blocken"
+
+#: admin/class-pyu-settings-controller.php:42
+msgid "Disable browsing your directory containing your protected uploads"
+msgstr "Durchsuchen Deines Upload-Verzeichnisses deaktivieren"
+
+#: admin/class-pyu-settings-controller.php:51
+msgid "Block Google-Bot"
+msgstr "Google-Bot blockieren"
+
+#: admin/class-pyu-settings-controller.php:60
+msgid "Block Facebook-Bot"
+msgstr "Facebook-Bot blockieren"
+
+#: admin/class-pyu-settings-controller.php:69
+msgid "Block Twitter-Bot"
+msgstr "Twitter-Bot blockieren"
+
+#: admin/class-pyu-settings-controller.php:78
+msgid "Disable directory browsing"
+msgstr "Verzeichnis-Browsing deaktivieren"
+
+#: admin/class-pyu-upload-controller.php:18
+#: admin/partials/file_dashboard/file_dashboard_status.php:8
+msgid "Protected"
+msgstr "Geschützt"
+
+#: admin/class-pyu-upload-controller.php:19
+#: admin/partials/file_dashboard/file_dashboard_status.php:8
+msgid "Unprotected"
+msgstr "Nicht geschützt"
+
+#: admin/class-pyu-upload-controller.php:20
+msgid "Update successful"
+msgstr "Update erfolgreich"
+
+#: admin/class-pyu-upload-controller.php:21
+msgid "An error occured"
+msgstr "Es ist ein Fehler aufgetreten"
+
+#: admin/partials/access_denied/access_denied.php:15
+msgid "Unauthorized - Invalid Login"
+msgstr "Nicht authorisiert - Falscher Login"
+
+#: admin/partials/access_denied/access_denied.php:22
+msgid "Access denied"
+msgstr "Zugriff verweigert"
+
+#: admin/partials/access_denied/access_denied.php:24
+msgid "Invalid Credentials"
+msgstr "Falsche Logindaten"
+
+#: admin/partials/access_denied/access_denied.php:25
+msgid "Try Again"
+msgstr "Nochmal probieren"
+
+#: admin/partials/faq/faq.php:1
+msgid "Protect Your Uploads - Getting Started"
+msgstr "Protect Your Uploads - Direkt loslegen"
+
+#: admin/partials/faq/faq.php:3
+msgid "Create Users"
+msgstr "Benutzer erstellen"
+
+#: admin/partials/faq/faq.php:6
+msgid ""
+"First create one or more users on the <a href=\"edit.php?post_type=pyu-user"
+"\">Manage Users</a> page. Set a Username and a Password for each user. The "
+"Username and Password will be used later for accessing the files."
+msgstr ""
+"Als Erstes erstelle einen oder mehrere Benutzer in der <a href=„edit.php?"
+"post_type=pyu-user“>Benutzer verwalten</a> Seite. Setze einen Benutzername "
+"und Passwort. Der Benutzername und Passwort werden später für den Zugriff "
+"auf die Datei abgefragt."
+
+#: admin/partials/faq/faq.php:24
+msgid "Protect Your Files"
+msgstr "Schütze Deine Dateien"
+
+#: admin/partials/faq/faq.php:27
+msgid ""
+"In the <a href=\"admin.php?page=protect-your-uploads-files\">Files Overview</"
+"a> page you can protect and unprotect easily. Set or unset the checkbox, "
+"select a user and click the \"Save\" button."
+msgstr ""
+"Auf der <a href=„admin.php?page=protect-your-uploads-files“>Dateiübersicht</"
+"a> Seite kannst Du Deine Dateien schützen oder freischalten. Aktiviere/"
+"Deaktiviere die Checkbox, wähle einen Benutzer aus und drücke den „Speicher“ "
+"Button."
+
+#: admin/partials/faq/faq.php:46
+msgid "Try To Access Your Files"
+msgstr "Versuche Deine Dateien zu erreichen"
+
+#: admin/partials/faq/faq.php:49
+msgid ""
+"Check if the protection works using the direct link shown on the <a href="
+"\"admin.php?page=protect-your-uploads-files\">Files Overview</a> page."
+msgstr ""
+"Teste, ob der Schutz funktioniert. Öffne den Direktlink in der <a "
+"href=„admin.php?page=protect-your-uploads-files“>Dateiübersicht Seite</a>."
+
+#: admin/partials/faq/faq.php:67
+msgid "Support"
+msgstr "Support"
+
+#: admin/partials/faq/faq.php:69
+msgid ""
+"If you have any questions or proposals, write to <a href=\"mailto:"
+"protectyouruploads@gmail.com\">protectyouruploads@gmail.com</a>"
+msgstr ""
+"Bei Fragen oder Vorschlägen, schreibe an <a href=„mailto:"
+"protectyouruploads@gmail.com“>protectyouruploads@gmail.com</a>."
+
+#: admin/partials/file_dashboard/file_dashboard.php:7
+msgid "Protect Your Uploads - Files Overview"
+msgstr "Protect Your Uploads - Dateiübersicht"
+
+#: admin/partials/file_dashboard/file_dashboard.php:15
+#: admin/partials/file_dashboard/file_dashboard.php:24
+msgid "File"
+msgstr "Datei"
+
+#: admin/partials/file_dashboard/file_dashboard.php:16
+#: admin/partials/file_dashboard/file_dashboard.php:25
+msgid "Status"
+msgstr "Status"
+
+#: admin/partials/file_dashboard/file_dashboard.php:17
+#: admin/partials/file_dashboard/file_dashboard.php:26
+msgid "User"
+msgstr "Benutzer"
+
+#: admin/partials/file_dashboard/file_dashboard.php:18
+#: admin/partials/file_dashboard/file_dashboard.php:27
+msgid "Action"
+msgstr "Aktion"
+
+#: admin/partials/file_dashboard/file_dashboard.php:19
+#: admin/partials/file_dashboard/file_dashboard.php:28
+msgid "Directlink"
+msgstr "Direktlink"
+
+#: admin/partials/file_dashboard/file_dashboard_save_button.php:6
+#: admin/partials/settings/settings.php:17
+msgid "Save"
+msgstr "Speichern"
+
+#: admin/partials/login/login.php:14
+msgid "Protected File - Login required"
+msgstr "Geschützter Bereich - Login erforderlich"
+
+#: admin/partials/login/login.php:27 admin/partials/login/login.php:43
+msgid "Login"
+msgstr "Login"
+
+#: admin/partials/settings/settings.php:7
+msgid "Protect Your Upload - Settings"
+msgstr "Protect Your Upload - Einstellungen"
